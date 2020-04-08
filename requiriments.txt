@@ -1,3 +1,0 @@
--r requiriments-dev.txt
-
-gunicorn
