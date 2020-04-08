@@ -25,7 +25,7 @@ SECRET_KEY = 'lbanjhen_8m4%uccl&rt$^5bvyr0e)&%6s!vga3_e3pynrfr)%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

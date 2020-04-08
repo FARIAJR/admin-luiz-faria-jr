@@ -1,0 +1,1 @@
+web: gunicorn admin_luiz_faria_jr.wsgi --log-file -
